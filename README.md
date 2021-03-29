@@ -10,3 +10,8 @@ Download population geospatial raster from Worldpop
 Download the 12 rasters from your selected country and stack them following these instructions. 
 Downloading geospatial rasters from Worldpop
 Produce a raster stack and calculate summary statistics using the script posted to our slack channel
+
+Raster stack summary statistics for ADM3:
+
+![adm1](adm_3_1.PNG)
+![adm2](adm_3_2.PNG)
